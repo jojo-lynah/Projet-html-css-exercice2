@@ -1,0 +1,158 @@
+body
+{
+    margin: 0%;
+    padding: 0%;
+  
+}
+.jojo{
+    background-color:#27242b ;
+    border-bottom: #322f36 solid 1px;
+}
+.exo img{
+    margin-left: 10px;
+    width: 250px;
+}
+#sary{
+    max-width: 100%;
+}
+.exo a{
+    text-decoration: none;
+}
+.autre{
+    text-decoration: underline;
+    color: #3d9f96;
+}
+.exo{
+    display: flex;
+    justify-content: center;
+}
+.blanc{
+    color: white;
+}
+hr{
+    background-color: #27242b ;
+}
+.topnav
+{
+    background-color: #27242b;
+    color: #fff;
+    text-align: center;
+    
+}
+.fulge{
+    margin-top: 0px;
+}
+h3
+{
+    color: #3d9f96;
+}
+.icone
+{  background-color: #f7f7f7;
+   text-align: center;
+    padding: 3% 0% 3% 0%;
+    
+}
+.icone img
+{
+    margin: 0% 2% 2% 2%;
+}
+.para{
+    text-align: center;
+}
+.vola{
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(assets/img/map_bg.png);
+    justify-content: space-around;
+}
+.solde{
+    background-color: #27242b;
+    color: #fff;
+    text-align: center;
+}
+.belle{
+    background-color: #f7f7f7;
+    color: #000;
+    padding: 5%;
+    text-align: center;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+figcaption{
+    font-weight: bold;
+   text-align: center;
+}
+.Din{
+    background-color: #fff;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+#d1{
+    color:  #ababab;
+}
+.Din h2{
+    color: #000;
+}
+button{
+    border: none;
+    color: #fff;
+    background-color: #3d9f96;
+    border-radius: 50px;
+    width: 120px;
+    height: 40px;
+    margin-bottom: 50px;
+}
+
+#d3{
+    text-align: left;
+}
+#d4{
+    text-align: left;
+}
+.Elodie{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: #fff;
+    color: #000;
+}
+.Fleur{
+    background-color: #f7f7f7;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.Fleur img
+{
+    width: 250px;
+    
+}
+footer
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#play{
+    position: sticky;
+    margin-top: 0px;
+    margin-left: -157px;
+    margin-bottom: 165px;
+}
+.gauche{
+    text-align: left;
+}
+.gris{
+    color: #ababab;
+}
+#play1{
+    position: sticky;
+    margin-top: 0px;
+    margin-left: -289px;
+    margin-bottom: 161px;
+}
